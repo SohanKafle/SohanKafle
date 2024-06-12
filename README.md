@@ -8,10 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohankafle&label=Profile%20views&color=0e75b6&style=flat" alt="sohankafle" /> </p>
 
+- 🔭 I’m currently working on: **Car Rental System**
 
+- 🌱 I’m currently learning: **Laravel**
 
+- 📫 How to reach me: **kaflesohan1@gmail.com**
 
-
+- ⚡ Fun fact: **It’s all 0’s and 1’ss**
 
 
 <h3 align="left">Connect with me:</h3>
