@@ -1,7 +1,7 @@
 ![Welcome](https://github.com/SohanKafle/SohanKafle/assets/171433492/42dbcccd-e910-4af0-bfab-f564b808d883)
 
 <h1 align="center">Hello there 👋, I'm Sohan Kafle</h1>
-<h3 align="center">Just a Student doing student things.</h3>
+<h3 align="center">Just a Student Living, Laughing, and Learning.</h3>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif">
