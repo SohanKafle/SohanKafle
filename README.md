@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning: **Laravel**
 
-- 📫 How to reach me: **kaflesohan1@gmail.com**
+- 📫 How to reach me: **www.sohankafle.com.np**
 
 - ⚡ Fun fact: **It’s all 0’s and 1’ss**
 
